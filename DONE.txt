@@ -1,0 +1,10 @@
+WEEK 1
+- wrote the First Project description
+- installed docker
+- read beginner documentation on how to get started/overview of docker
+- did the hands on (basic hello world in java executed on docker container)
+- created GitHub repo
+
+impediments:
+- (during hands on example) gradle version not compatible with jdk11 
+
