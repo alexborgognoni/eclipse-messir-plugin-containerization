@@ -1,3 +1,0 @@
-WEEK 1 
-- decide for service to be containerized?
-
