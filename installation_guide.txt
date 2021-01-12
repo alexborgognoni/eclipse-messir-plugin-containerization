@@ -1,0 +1,9 @@
+To install Excalibur please follow the steps below:
+
+1. Open a terminal application and navigate to the docker-excalibur folder.
+
+2. run './excalibur_install': this script downloads and configures the docker application and builds the docker-excalibur image
+
+3. run './excalibur_run': this script runs one container/instance of Eclipse with the Excalibur plugin installed and confiugred 
+
+Important: All of your Eclipse related files such as plugins and configuration files as well as YOUR PROJECT SOURCES are stored inside the '.eclipse-docker' hidden folder! To view it please allow hidden files to be viewed inside of your file browser, but most importantly DO NOT MOVE this folder!
